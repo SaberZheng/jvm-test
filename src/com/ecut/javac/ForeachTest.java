@@ -17,7 +17,5 @@ public class ForeachTest {
             sum += i;
         }
         System.out.println(sum);
-
-
     }
 }

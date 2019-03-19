@@ -19,14 +19,6 @@ import javax.lang.model.element.VariableElement;
 import javax.lang.model.util.ElementScanner7;
 import javax.tools.Diagnostic.Kind;
 
-/**
- * javac NameCheckProcessor.java
- * javac -processor NameCheckProcessor FT.java
- *
- * @author kevin
- */
-
-
 //这个注解处理器对那些注解感兴趣，使用*表示支持所有的Annotations
 @SupportedAnnotationTypes(value = "*")
 //这个注解处理器可以处理那些Java版本的代码，只支持Java1.8的代码
