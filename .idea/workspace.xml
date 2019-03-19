@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55136f52-fbfa-442f-9d23-13a8a585b528" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/AccessFieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/AutoBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/BADLY_NAME_CODE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/ForeachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/GenericTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/IfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/NameCheckProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecut/javac/Student.java" afterDir="false" />
+    <list default="true" id="55136f52-fbfa-442f-9d23-13a8a585b528" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -256,7 +247,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552916959760" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552957115438" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ecut/classload/DynamicProxyTest.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -392,7 +383,7 @@
       <workItem from="1552180016079" duration="18092000" />
       <workItem from="1552468080943" duration="3318000" />
       <workItem from="1552613505255" duration="4274000" />
-      <workItem from="1552701403017" duration="23427000" />
+      <workItem from="1552701403017" duration="24034000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1552095786965</created>
@@ -464,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552875732009</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <created>1552955383515</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1552955383515</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63556000" />
+    <option name="totallyTimeSpent" value="64163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
